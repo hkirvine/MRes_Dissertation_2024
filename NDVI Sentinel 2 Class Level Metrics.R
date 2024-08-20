@@ -27,7 +27,7 @@ library(terra)
 library(ggplot2)
 
 # Set the working directory to the directory containing the classified NDVI GeoTIFF files
-setwd("C:/Users/hopek/OneDrive - Newcastle University/Working File/Newcastle Uni/MRes Geospatial Data Science/MRes Diss/Data/Classified Data/Sentinel2_NDVI_Class")
+setwd("here")
 
 # Class Level Landscape Metric Calculations #### 
 
