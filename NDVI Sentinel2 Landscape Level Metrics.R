@@ -24,7 +24,7 @@ library(sf)
 library(terra)
 
 # Set the working directory to the directory containing the classified NDVI GeoTIFF files
-setwd("C:/Users/hopek/OneDrive - Newcastle University/Working File/Newcastle Uni/MRes Geospatial Data Science/MRes Diss/Data/Classified Data/Sentinel2_NDVI_Class")
+setwd("add your working directory here")
 
 # Landscape Level Landscape Metric Calculations ####
 
